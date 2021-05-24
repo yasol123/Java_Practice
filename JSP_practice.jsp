@@ -16,6 +16,5 @@
 		</tr>
 	<% } %>
 </table>
-<%@ include = file="JSP_practice.jsp" %>
 </body>
 </html>
